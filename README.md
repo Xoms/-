@@ -1,3 +1,3 @@
-# hello-world
+# Игруха про голубя
 exercises
 Bla bla - just training 
