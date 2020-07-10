@@ -1,3 +1,5 @@
-# Игруха про голубя
+# Pigeon game on core js
 exercises
-Bla bla - just training 
+first practice at all :))) 
+a large and unpredictale code and so on ))))))
+Even me myself can't understand it anymore ;) 
